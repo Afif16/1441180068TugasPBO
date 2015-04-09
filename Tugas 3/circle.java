@@ -3,6 +3,7 @@ public class circle {
 	String color;
 
 	public circle (){
+	
 
 		radius = 2.0;
 		color = "pink";
@@ -18,10 +19,10 @@ public class circle {
 	public double getRadius () {
 		return radius;
 	}
-	public  String getColor(){
+	public  String getColor () {
 		return color;
 	}
-	public  double getArea (){
+	public  double getArea () {
 		return radius*radius*Math.PI;
 	}	
 }

@@ -4,8 +4,8 @@ public class Testcircle {
 		circle ardy = new circle (30);
 		circle akbar = new circle (60, "abangGalau");
 
-		System.out.println("radius = "+ cahya.radius+"color = "+ cahya.color + "Luas = "+ cahya.getArea());
-		System.out.println("radius = "+ ardy.radius+"color = "+ ardy.color + "Luas = "+ ardy.getArea());
-		System.out.println("radius = "+ akbar.radius+"color = "+ akbar.color + "Luas = "+ akbar.getArea());
+		System.out.println("radius = "+ cahya.radius+ "color = "+ cahya.color + "Luas = "+ cahya.getArea());
+		System.out.println("radius = "+ ardy.radius+ "color = "+ ardy.color + "Luas = "+ ardy.getArea());
+		System.out.println("radius = "+ akbar.radius+ "color = "+ akbar.color + "Luas = "+ akbar.getArea());
 	}
-}
+

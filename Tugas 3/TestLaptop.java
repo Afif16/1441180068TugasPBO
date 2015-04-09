@@ -25,6 +25,7 @@ public class TestLaptop {
 		4Empat.indikatorBaterai ();
 		4Empat.indikatorWifi();
 		4Empat.mati();
+	
 		//setter
 		System.out.println("Setelah setter");
 		1Satu.setMerk("Axio"); 1Satu.setWarna("Hijau"); 1Satu.setWifi("Menyambung")	; 1Satu.setBaterai(97);

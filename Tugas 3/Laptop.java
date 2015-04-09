@@ -5,6 +5,7 @@
 	private int baterai;
 
 	public Laptop()
+
 	{
 	  	merk		= "Acer";
 	  	warna		= "Silver";
