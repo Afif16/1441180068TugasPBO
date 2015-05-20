@@ -3,7 +3,7 @@ public class no8{
 		int angka;
 
 		for (angka = 1; angka < 111 ; angka++){
-			System.out.print(" "+angka);
+			System.out.println(" "+angka);
 		}
 	}
 	

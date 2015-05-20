@@ -8,7 +8,7 @@ public class no7{
 			jumlah +=angka;
 
 		}
-		System.out.println(" " +jumlah/angka);
+		System.out.println(" " +jumlah / angka);
 		
 	}
 	

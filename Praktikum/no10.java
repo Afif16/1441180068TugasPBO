@@ -4,9 +4,9 @@ public class no10
 	{
 		int panjang = 3;
 
-		for (int l = 1; l<=panjang; l++){
-			for(int j = 1; j<=panjang; j++){
-			System.out.print("#"); 
+		for (int p = 3; p<=panjang; p++){
+			for(int g = 3; g<=panjang; g++){
+			System.out.println("#"); 
 		}
 			
 		}	System.out.print("\n");
