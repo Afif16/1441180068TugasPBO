@@ -34,7 +34,7 @@ public double keliling()
 	return keliling;
 	}
 
-public void tampilkanProperty()
+public void tampilakanProperty()
 	{
 	System.out.println("Panjang Segitiga = " + panjangSegitiga);
 	System.out.println("Tinggi Segitiga = " + tinggiSegitiga);
